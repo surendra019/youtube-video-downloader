@@ -1,6 +1,6 @@
 ﻿altgraph==0.17.4
 certifi==2023.11.17
-charset-normalizer==3.3.
+charset-normalizer==3.3.2
 idna==3.4
 packaging==23.2
 pefile==2023.2.7
